@@ -1,4 +1,5 @@
 import React from "react";
+import "./styles.css";
 
 const SearchBar = ({ value, handleSearchKey, clearSearch, formSubmit }) => {
   return (
