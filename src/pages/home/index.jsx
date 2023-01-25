@@ -1,28 +1,30 @@
+import React, { useState } from "react";
+import EmptyList from "../../components/common/emptyList/index.jsx";
+import BlogList from "../../components/blogList/index.jsx";
 import Header from "../../components/header/index.jsx";
 import SearchBar from "../../components/search-bar/index.jsx";
-import BlogList from "../../components/blogList/index.jsx";
-import { blogList } from "../../config/data.js";
+import { blogList } from "../../config/data";
 
 const Home = () => {
-  const [blog, setBlogs] = useState(initialState);
+  const [blogs, setBlogs] = useState(blogList);
   const [searchKey, setSearchKey] = useState("");
 
   // Search submit
-  const handleSearchSubmit = (event) => {
-    event.preventDefault();
+  const handleSearchBar = (e) => {
+    e.preventDefault();
     handleSearchResults();
   };
 
-  // Search for blogs by category
-  const handleSearchSubmit = () => {
+  // Search for blog by category
+  const handleSearchResults = () => {
     const allBlogs = blogList;
     const filteredBlogs = allBlogs.filter((blog) =>
       blog.category.toLowerCase().includes(searchKey.toLowerCase().trim())
     );
-
     setBlogs(filteredBlogs);
   };
 
+  // Clear search and show all blogs
   const handleClearSearch = () => {
     setBlogs(blogList);
     setSearchKey("");
@@ -30,14 +32,19 @@ const Home = () => {
 
   return (
     <div>
+      {/* Page Header */}
       <Header />
+
+      {/* Search Bar */}
       <SearchBar
         value={searchKey}
         clearSearch={handleClearSearch}
-        formSubmit={handleSearchSubmit}
+        formSubmit={handleSearchBar}
         handleSearchKey={(e) => setSearchKey(e.target.value)}
       />
-      <BlogList blogs={blogList} />
+
+      {/* Blog List & Empty View */}
+      {!blogs.length ? <EmptyList /> : <BlogList blogs={blogs} />}
     </div>
   );
 };
