@@ -37,9 +37,9 @@ const Home = () => {
   return (
     <div>
       {/* Page Header */}
-      <img src={logoRight} className="logo-right" />
+      <img src={logoRight} className="logo-right" alt="" />
       <Slider />
-      <img src={logo} className="logo" />
+      <img src={logo} className="logo" alt="" />
 
       <Header />
 
