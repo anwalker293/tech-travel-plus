@@ -4,6 +4,10 @@ import BlogList from "../../components/blogList/index.jsx";
 import Header from "../../components/header/index.jsx";
 import SearchBar from "../../components/search-bar/index.jsx";
 import { blogList } from "../../config/data";
+import Slider from "../../components/Slider/index.jsx";
+import logo from "../../images/tech-travel/logo.png";
+import logoRight from "../../images/tech-travel/logo-full-wo-background.png";
+import "./styles.css";
 
 const Home = () => {
   const [blogs, setBlogs] = useState(blogList);
@@ -33,6 +37,10 @@ const Home = () => {
   return (
     <div>
       {/* Page Header */}
+      <img src={logoRight} className="logo-right" />
+      <Slider />
+      <img src={logo} className="logo" />
+
       <Header />
 
       {/* Search Bar */}
