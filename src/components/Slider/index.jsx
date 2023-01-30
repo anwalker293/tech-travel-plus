@@ -19,7 +19,7 @@ function Slider(props) {
     <div>
       <div className="slider-container">
         <SliderContent activeIndex={activeIndex} imageSlider={imageSlider} />
-        <img src={logo} />
+        <img src={logo} alt="" />
         <Arrows
           prevSlide={() =>
             setActiveIndex(activeIndex < 1 ? len : activeIndex - 1)
