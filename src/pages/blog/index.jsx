@@ -15,8 +15,7 @@ const Blog = () => {
     if (blog) {
       setBlog(blog);
     }
-    // eslint-disable-line react-hooks/exhaustive-deps
-  }, []);
+  }, [blogList]);
 
   return (
     <>
