@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from "react";
-import { useParams } from "react-router";
 import { blogList } from "../../config/data";
 import Chip from "../../components/common/chip/index.jsx";
 import EmptyList from "../../components/common/emptyList/index.jsx";
