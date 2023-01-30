@@ -7,7 +7,6 @@ import "./styles.css";
 import { Link } from "react-router-dom";
 
 const Blog = () => {
-  const { id } = useParams();
   const [blog, setBlog] = useState(null);
 
   useEffect(() => {
