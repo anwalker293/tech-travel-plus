@@ -8,7 +8,7 @@ import img5 from "../../images/tirana/tirana3.png";
 import img6 from "../../images/albania/albania6.png";
 import img3 from "../../images/albania/albania8.png";
 
-export default [
+const urlBois = [
   {
     url: img1,
   },
@@ -31,3 +31,5 @@ export default [
     url: img7,
   },
 ];
+
+export default urlBois;
