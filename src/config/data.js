@@ -189,7 +189,7 @@ export const blogList = [
       </div>
     ),
     authorName: "Alexandra N. Walker",
-    authorAvatar: "/assets/images/author.jpg",
+    authorAvatar: "/assets/images/alex.png",
     createdAt: "January 30th, 2023",
     cover: "/assets/images/albania-7day-itinerary.png",
   },
