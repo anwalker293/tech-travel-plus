@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.1de77a98.css",
-    "main.js": "/static/js/main.fe0a7318.js",
-    "static/media/albania2.png": "/static/media/albania2.f2bd7203e4c6d7b335bf.png",
-    "static/media/albania4.png": "/static/media/albania4.18f695dcf96e77edcc2a.png",
-    "static/media/tech.png": "/static/media/tech.ced0adbbe4c459d483b0.png",
-    "static/media/albania8.png": "/static/media/albania8.5bfb2617392e9cd5ce18.png",
-    "static/media/tirana3.png": "/static/media/tirana3.11f5def60d8c579573cc.png",
-    "static/media/albania6.png": "/static/media/albania6.44638084de7c69effc22.png",
-    "static/media/train1.png": "/static/media/train1.7d69f5339076408aa8b6.png",
-    "static/media/logo-full-wo-background.png": "/static/media/logo-full-wo-background.ee6b6ea6fba2fcf5c55c.png",
-    "static/media/logo.png": "/static/media/logo.386407c8fea893391625.png",
-    "index.html": "/index.html",
-    "main.1de77a98.css.map": "/static/css/main.1de77a98.css.map",
-    "main.fe0a7318.js.map": "/static/js/main.fe0a7318.js.map"
+    "main.css": "/tech-travel-plus/static/css/main.1de77a98.css",
+    "main.js": "/tech-travel-plus/static/js/main.d935fdbf.js",
+    "static/media/albania2.png": "/tech-travel-plus/static/media/albania2.f2bd7203e4c6d7b335bf.png",
+    "static/media/albania4.png": "/tech-travel-plus/static/media/albania4.18f695dcf96e77edcc2a.png",
+    "static/media/tech.png": "/tech-travel-plus/static/media/tech.ced0adbbe4c459d483b0.png",
+    "static/media/albania8.png": "/tech-travel-plus/static/media/albania8.5bfb2617392e9cd5ce18.png",
+    "static/media/tirana3.png": "/tech-travel-plus/static/media/tirana3.11f5def60d8c579573cc.png",
+    "static/media/albania6.png": "/tech-travel-plus/static/media/albania6.44638084de7c69effc22.png",
+    "static/media/train1.png": "/tech-travel-plus/static/media/train1.7d69f5339076408aa8b6.png",
+    "static/media/logo-full-wo-background.png": "/tech-travel-plus/static/media/logo-full-wo-background.ee6b6ea6fba2fcf5c55c.png",
+    "static/media/logo.png": "/tech-travel-plus/static/media/logo.386407c8fea893391625.png",
+    "index.html": "/tech-travel-plus/index.html",
+    "main.1de77a98.css.map": "/tech-travel-plus/static/css/main.1de77a98.css.map",
+    "main.d935fdbf.js.map": "/tech-travel-plus/static/js/main.d935fdbf.js.map"
   },
   "entrypoints": [
     "static/css/main.1de77a98.css",
-    "static/js/main.fe0a7318.js"
+    "static/js/main.d935fdbf.js"
   ]
 }
