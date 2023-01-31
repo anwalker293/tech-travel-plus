@@ -10,11 +10,6 @@ const len = imageSlider.length - 1;
 
 function Slider(props) {
   const [activeIndex, setActiveIndex] = useState(0);
-  window.onload = function () {
-    setInterval(function () {
-      setActiveIndex(activeIndex + 1);
-    }, 2000); //2 seconds
-  };
   return (
     <div>
       <div className="slider-container">
