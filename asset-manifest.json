@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/static/css/main.9dc8f362.css",
-    "main.js": "/static/js/main.a0633ab8.js",
-    "static/media/albania2.png": "/static/media/albania2.f2bd7203e4c6d7b335bf.png",
-    "static/media/albania4.png": "/static/media/albania4.18f695dcf96e77edcc2a.png",
-    "static/media/tech.png": "/static/media/tech.ced0adbbe4c459d483b0.png",
-    "static/media/albania8.png": "/static/media/albania8.5bfb2617392e9cd5ce18.png",
-    "static/media/tirana3.png": "/static/media/tirana3.11f5def60d8c579573cc.png",
-    "static/media/albania6.png": "/static/media/albania6.44638084de7c69effc22.png",
-    "static/media/train1.png": "/static/media/train1.7d69f5339076408aa8b6.png",
+    "main.js": "/static/js/main.cc5fec37.js",
+    "static/media/albania2-optimize.png": "/static/media/albania2-optimize.101bcbec7c3d1d62f377.png",
+    "static/media/albania8-optimize.png": "/static/media/albania8-optimize.1216b1e75901ece3a92e.png",
+    "static/media/tech-optimize.png": "/static/media/tech-optimize.9ea6ab41ced64b9ae73f.png",
     "static/media/logo-full-wo-background.png": "/static/media/logo-full-wo-background.ee6b6ea6fba2fcf5c55c.png",
+    "static/media/albania4-optimize.png": "/static/media/albania4-optimize.d4be91b13bec5161db67.png",
+    "static/media/tirana3-optimize.png": "/static/media/tirana3-optimize.0c54de5a5b95f6dcab85.png",
+    "static/media/albania6-optimize.png": "/static/media/albania6-optimize.dce571d9182432add3cf.png",
+    "static/media/train1-optimize.png": "/static/media/train1-optimize.249bea1fc0e942aa2d1b.png",
     "static/media/logo.png": "/static/media/logo.386407c8fea893391625.png",
     "index.html": "/index.html",
     "main.9dc8f362.css.map": "/static/css/main.9dc8f362.css.map",
-    "main.a0633ab8.js.map": "/static/js/main.a0633ab8.js.map"
+    "main.cc5fec37.js.map": "/static/js/main.cc5fec37.js.map"
   },
   "entrypoints": [
     "static/css/main.9dc8f362.css",
-    "static/js/main.a0633ab8.js"
+    "static/js/main.cc5fec37.js"
   ]
 }
