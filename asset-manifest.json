@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9dc8f362.css",
+    "main.js": "/static/js/main.cc5fec37.js",
+    "static/media/albania2-optimize.png": "/static/media/albania2-optimize.101bcbec7c3d1d62f377.png",
+    "static/media/albania8-optimize.png": "/static/media/albania8-optimize.1216b1e75901ece3a92e.png",
+    "static/media/tech-optimize.png": "/static/media/tech-optimize.9ea6ab41ced64b9ae73f.png",
+    "static/media/logo-full-wo-background.png": "/static/media/logo-full-wo-background.ee6b6ea6fba2fcf5c55c.png",
+    "static/media/albania4-optimize.png": "/static/media/albania4-optimize.d4be91b13bec5161db67.png",
+    "static/media/tirana3-optimize.png": "/static/media/tirana3-optimize.0c54de5a5b95f6dcab85.png",
+    "static/media/albania6-optimize.png": "/static/media/albania6-optimize.dce571d9182432add3cf.png",
+    "static/media/train1-optimize.png": "/static/media/train1-optimize.249bea1fc0e942aa2d1b.png",
+    "static/media/logo.png": "/static/media/logo.386407c8fea893391625.png",
+    "index.html": "/index.html",
+    "main.9dc8f362.css.map": "/static/css/main.9dc8f362.css.map",
+    "main.cc5fec37.js.map": "/static/js/main.cc5fec37.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9dc8f362.css",
+    "static/js/main.cc5fec37.js"
+  ]
+}
