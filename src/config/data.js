@@ -53,10 +53,7 @@ export const blogList = [
             the surrounding markets, and parks :){" "}
           </li>
         </ul>
-        <img
-          alt=""
-          src="https://images.unsplash.com/photo-1632353913765-9b56b7b4bd55?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80"
-        />
+        <img alt="Tirana" src="/assets/images/blog1-photo1-optimize.jpeg" />
         <br />
         <br />
         <b>Day 2: Berat</b>{" "}
@@ -82,10 +79,7 @@ export const blogList = [
             one of the oldest in the country
           </li>
         </ul>
-        <img
-          alt=""
-          src="https://images.unsplash.com/photo-1576709501191-a9ccd791f174?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1364&q=80"
-        />
+        <img alt="Berat" src="/assets/images/blog1-photo2-optimize.jpeg" />
         <br />
         <br />
         <b>Day 3: Gjirokastra</b>{" "}
@@ -108,8 +102,8 @@ export const blogList = [
           </li>
         </ul>
         <img
-          alt=""
-          src="https://images.unsplash.com/photo-1661616693709-9eea165a035f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2148&q=80"
+          alt="Gjirokastra"
+          src="/assets/images/blog1-photo3-optimize.jpeg"
         />
         <br />
         <br />
@@ -132,10 +126,7 @@ export const blogList = [
             blue water
           </li>
         </ul>
-        <img
-          alt=""
-          src="https://media.istockphoto.com/id/529358575/photo/sarandas-port-at-ionian-sea-albania.jpg?s=612x612&w=0&k=20&c=6C3noaSSOKA4O6UfKiNhd8uku8IcZhW_V-0n6mWc1vo="
-        />
+        <img alt="Saranda" src="/assets/images/blog1-photo4-optimize.jpeg" />
         <br />
         <br />
         <b>Day 5: Vlora</b>{" "}
@@ -153,10 +144,7 @@ export const blogList = [
             Enjoy a fresh seafood dinner at one of Vlora's local restaurants{" "}
           </li>
         </ul>
-        <img
-          alt=""
-          src="https://media.istockphoto.com/id/1194651439/photo/gjipe-beach-himare-albania.jpg?s=612x612&w=0&k=20&c=QzycDyJO8KLGnhNIMazubJC1fbeYyfT0ZfIId6BhuOc="
-        />
+        <img alt="Vlora" src="/assets/images/blog1-photo5-optimize.jpeg" />
         <br />
         <br />
         <b>Day 6: Permet</b>
@@ -173,10 +161,7 @@ export const blogList = [
             restaurants{" "}
           </li>
         </ul>
-        <img
-          alt=""
-          src="https://images.unsplash.com/photo-1652816559595-0b4f31476e1f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2370&q=80"
-        />
+        <img alt="Permet" src="/assets/images/blog1-photo6-optimize.jpeg" />
         <br />
         <br />
         <b>Day 7: Wrap it back up with Tirana</b>
@@ -207,7 +192,7 @@ export const blogList = [
       </div>
     ),
     authorName: "Alexandra N. Walker",
-    authorAvatar: "/assets/images/alex.png",
+    authorAvatar: "/assets/images/alex-optimize.png",
     createdAt: "January 30th, 2023",
     cover: "/assets/images/albania-7day-itinerary.png",
   },

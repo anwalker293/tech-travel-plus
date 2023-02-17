@@ -35,7 +35,7 @@ const Blog = () => {
               ))}
             </div>
           </header>
-          <img src={blog.cover} alt="cover" />
+          <img src={blog.cover} alt="Blog Cover, Explore South Albania" />
           <p className="blog-desc">{blog.description}</p>
         </div>
       ) : (
