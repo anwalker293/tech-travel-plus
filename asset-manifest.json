@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9dc8f362.css",
+    "main.js": "/static/js/main.365085ba.js",
+    "static/media/albania2.png": "/static/media/albania2.f2bd7203e4c6d7b335bf.png",
+    "static/media/albania4.png": "/static/media/albania4.18f695dcf96e77edcc2a.png",
+    "static/media/tech.png": "/static/media/tech.ced0adbbe4c459d483b0.png",
+    "static/media/albania8.png": "/static/media/albania8.5bfb2617392e9cd5ce18.png",
+    "static/media/tirana3.png": "/static/media/tirana3.11f5def60d8c579573cc.png",
+    "static/media/albania6.png": "/static/media/albania6.44638084de7c69effc22.png",
+    "static/media/train1.png": "/static/media/train1.7d69f5339076408aa8b6.png",
+    "static/media/logo-full-wo-background-optimize.png": "/static/media/logo-full-wo-background-optimize.e743d80b74434c092232.png",
+    "static/media/logo.png": "/static/media/logo.386407c8fea893391625.png",
+    "static/media/logo-optimize.png": "/static/media/logo-optimize.5720edec65ba50666cbb.png",
+    "index.html": "/index.html",
+    "main.9dc8f362.css.map": "/static/css/main.9dc8f362.css.map",
+    "main.365085ba.js.map": "/static/js/main.365085ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9dc8f362.css",
+    "static/js/main.365085ba.js"
+  ]
+}
