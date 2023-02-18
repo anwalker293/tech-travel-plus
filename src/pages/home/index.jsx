@@ -5,8 +5,8 @@ import Header from "../../components/header/index.jsx";
 import SearchBar from "../../components/search-bar/index.jsx";
 import { blogList } from "../../config/data";
 import Slider from "../../components/Slider/index.jsx";
-import logo from "../../images/tech-travel/logo-optimize.png";
-import logoRight from "../../images/tech-travel/logo-full-wo-background-optimize.png";
+import logo from "../../images/tech-travel/logo-optimize copy.png";
+import logoRight from "../../images/tech-travel/logo-full-wo-background-optimize copy.png";
 import "./styles.css";
 
 const Home = () => {
