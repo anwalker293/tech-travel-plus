@@ -1,10 +1,10 @@
 import "./styles.css";
-import img1 from "../../images/tech-travel/train1.png";
+import img1 from "../../images/tech-travel/train1-optimize.png";
 
-import img2 from "../../images/albania/albania4.png";
-import img5 from "../../images/tech-travel/tech.png";
-import img4 from "../../images/albania/albania6.png";
-import img3 from "../../images/albania/albania8.png";
+import img2 from "../../images/albania/albania4-optimize.png";
+import img5 from "../../images/tech-travel/tech-optimize.png";
+import img4 from "../../images/albania/albania6-optimize.png";
+import img3 from "../../images/albania/albania8-optimize.png";
 
 const urlBois = [
   {
