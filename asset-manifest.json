@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9dc8f362.css",
+    "main.js": "/static/js/main.f67ccf84.js",
+    "static/media/albania4-optimize2.jpeg": "/static/media/albania4-optimize2.6a82995e60d005dff9b2.jpeg",
+    "static/media/tech-optimize2.jpeg": "/static/media/tech-optimize2.5e931d38fc9f381445e2.jpeg",
+    "static/media/albania8-optimize2.jpeg": "/static/media/albania8-optimize2.7e9c57c3a5485c94beb3.jpeg",
+    "static/media/albania6-optimize2.jpeg": "/static/media/albania6-optimize2.27249d0a5b18804fccbf.jpeg",
+    "static/media/train1-optimize2.jpeg": "/static/media/train1-optimize2.daf2f02cc1f346a4dd91.jpeg",
+    "static/media/logo-full-wo-background-optimize copy.png": "/static/media/logo-full-wo-background-optimize copy.12da40513649e42ac851.png",
+    "static/media/logo.png": "/static/media/logo.386407c8fea893391625.png",
+    "static/media/logo-optimize copy.png": "/static/media/logo-optimize copy.3b3203c385fe52e43efe.png",
+    "index.html": "/index.html",
+    "main.9dc8f362.css.map": "/static/css/main.9dc8f362.css.map",
+    "main.f67ccf84.js.map": "/static/js/main.f67ccf84.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9dc8f362.css",
+    "static/js/main.f67ccf84.js"
+  ]
+}
