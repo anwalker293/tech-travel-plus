@@ -1,5 +1,36 @@
 export const blogList = [
   {
+    id: 3,
+    title:
+      "Quickly Test and Develop your ACA-Py Code with Indicio’s New Minimal Example Repo",
+    category: "tech",
+    subCategory: ["aca-py"],
+    description: (
+      <div>
+        <p>
+          SO. You want to pass the Google Cloud Associate Cloud Engineer exam.
+          Well, here’s a full, robust, concrete guide on exactly how to do it.
+        </p>
+        <p>
+          This will be beginner (or even near beginner friendly). I think the
+          hardest part of this exam is definitely learning the concepts
+          (especially Kubernetes and how Google starts up VMs behind the
+          scenes), not to mention the products! This video will be split into
+          two parts (a) my experience with the exam and (b) the path I recommend
+          you take!
+        </p>
+        <h3>
+          Coding in ACA-Py just got a whole lot easier with Indicio’s a simple,
+          hackable repo
+        </h3>
+      </div>
+    ),
+    authorName: "Alexandra N. Walker",
+    authorAvatar: "/assets/images/alex-optimize.jpeg",
+    createdAt: "June 23rd, 2023",
+    cover: "/assets/images/gcp_ace_thumbnail.png",
+  },
+  {
     id: 2,
     title:
       "Quickly Test and Develop your ACA-Py Code with Indicio’s New Minimal Example Repo",
