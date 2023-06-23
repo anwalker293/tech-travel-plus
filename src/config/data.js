@@ -1,16 +1,22 @@
 export const blogList = [
   {
     id: 3,
-    title:
-      "Quickly Test and Develop your ACA-Py Code with Indicio’s New Minimal Example Repo",
+    title: "How to Pass the Google Cloud Associate Cloud Engineer Exam",
     category: "tech",
-    subCategory: ["aca-py"],
+    subCategory: [
+      "google",
+      "certifications",
+      "associate cloud engineer",
+      "tech",
+      "cloud",
+    ],
     description: (
       <div>
         <p>
           SO. You want to pass the Google Cloud Associate Cloud Engineer exam.
           Well, here’s a full, robust, concrete guide on exactly how to do it.
         </p>
+        <br />
         <p>
           This will be beginner (or even near beginner friendly). I think the
           hardest part of this exam is definitely learning the concepts
@@ -19,10 +25,244 @@ export const blogList = [
           two parts (a) my experience with the exam and (b) the path I recommend
           you take!
         </p>
+        <br /> <br />
+        <h3>My Experience</h3>
+        <br />
+        <p>
+          So, I started off learning about Google Cloud in about October 2022,
+          and I started off with the{" "}
+          <a href="https://amzn.to/46hhU7P">official study guide</a>. Now, this
+          is not to say that this{" "}
+          <a href="https://amzn.to/46hhU7P">study guide</a> was bad, but, oh
+          man, was I slammed with new concepts. I actually did atrociously on
+          the practice tests, which wasn’t to say that I didn’t read the
+          material, but I definitely didn’t understand it, and I definitely
+          spent too much time trying to understand something whose level I
+          wasn’t quite at yet.
+        </p>
+        <br />
+        <p>
+          Needless to say, my main source of help was an{" "}
+          <a href="https://learn.acloud.guru/course/gcp-certified-associate-cloud-engineer/overview">
+            A Cloud Guru course
+          </a>
+          . I’ll put the link to this in the description. Yes, this course does
+          cost a bit to take, but I definitely think it was worth it, especially
+          to learn all of the new concepts. It has videos, that you can go
+          through, practice labs, and practice questions. Further, in the middle
+          of this course, it gives you a second course with full detailing on
+          how Kubernetes works within Google Cloud, which I found essential for
+          the exam.
+        </p>
+        <br />
+        <p>
+          After doing this course, THEN I felt comfortable reading the study
+          guide. In fact, the <a href="https://amzn.to/46hhU7P">study guide</a>{" "}
+          was almost a breeze now because (a) I had previously read it and (b)
+          now fully understood what I was reading and concepts we were talking
+          about.
+        </p>
+        <br />
+        <p>
+          Simultaneously, while reading the{" "}
+          <a href="https://amzn.to/46hhU7P">study guide</a>, I started going
+          through{" "}
+          <a href="https://www.examtopics.com/exams/google/associate-cloud-engineer/view/">
+            ExamTopics
+          </a>{" "}
+          and{" "}
+          <a href="https://www.whizlabs.com/google-cloud-certified-associate-cloud-engineer/">
+            Whizlabs
+          </a>
+          .{" "}
+          <a href="https://www.examtopics.com/exams/google/associate-cloud-engineer/view/">
+            ExamTopics
+          </a>{" "}
+          has a whole bunch of free questions, which is helpful for preparing
+          for the exam, BUT be warned that their labeled answers are not always
+          right. Most of the real answers are in the discussion section for
+          those questions.
+        </p>
+        <br />
+        <p>
+          For this reason, I would recommend taking all the practice questions
+          from{" "}
+          <a href="https://www.whizlabs.com/google-cloud-certified-associate-cloud-engineer/">
+            Whizlabs
+          </a>{" "}
+          first.{" "}
+          <a href="https://www.whizlabs.com/google-cloud-certified-associate-cloud-engineer/">
+            Whizlabs
+          </a>{" "}
+          has detailed, accurate answers for all of their practice questions, so
+          you can actually learn from the question. I think it would be ideal to
+          take these questions first, and then return to{" "}
+          <a href="https://www.examtopics.com/exams/google/associate-cloud-engineer/view/">
+            ExamTopics
+          </a>
+          , so you can use your, now better, discretion at the questions on{" "}
+          <a href="https://www.examtopics.com/exams/google/associate-cloud-engineer/view/">
+            ExamTopics
+          </a>
+          . I’ve found both of these resources invaluable, as many of these
+          questions show up super similarly on the actual exam.
+        </p>
+        <br />
+        <p>
+          Finally, I just got studying. I made acronyms for all of the google
+          cloud products (which I think was one of the most difficult parts),
+          and, for any question I missed, I made sure to review them all before
+          the exam.
+        </p>
+        <br />
+        <br />
         <h3>
-          Coding in ACA-Py just got a whole lot easier with Indicio’s a simple,
-          hackable repo
+          More Details on How Exactly I Prepared for the Google Cloud Associate
+          Cloud Engineer Exam
         </h3>
+        <br />
+        <center>
+          <iframe
+            width="560"
+            height="315"
+            src="https://www.youtube.com/embed/k0hd-D4k78U"
+            title="How to Pass the Google Cloud Associate Cloud Engineer Exam"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen
+          ></iframe>
+        </center>
+        <br />
+        <br />
+        <h3>Recommended Path</h3>
+        <br />
+        <ul>
+          <li>
+            <b>
+              A. Take the Associate Cloud Engineer{" "}
+              <a href="https://learn.acloud.guru/course/gcp-certified-associate-cloud-engineer/overview">
+                {" "}
+                A Cloud Guru Course
+              </a>
+              .
+            </b>
+          </li>
+          <li>
+            <b>
+              B. Take exams on{" "}
+              <a href="https://www.whizlabs.com/google-cloud-certified-associate-cloud-engineer/">
+                Whizlabs
+              </a>
+              , except save one for last.
+            </b>
+            <p>
+              For each exam you complete, record the question you got down
+              wrong. I would recommend reviewing these questions daily. Also
+              record, if you encounter them, any new Google Cloud products or
+              definitely products you keep encountering but can’t remember. I’ve
+              found it helpful to create acronyms of these products.
+            </p>
+          </li>
+          <li>
+            <b>
+              C. Read through the{" "}
+              <a href="https://amzn.to/46hhU7P">Official Study Guide</a> and
+              take practice questions.
+            </b>
+            <p>
+              I’ve found this study guide to be much harder than the actual
+              exam, which I found was perfect for preparation going into the
+              exam.
+            </p>
+          </li>
+          <li>
+            <b>
+              D. Go through{" "}
+              <a href="https://www.examtopics.com/exams/google/associate-cloud-engineer/view/">
+                ExamTopics
+              </a>
+              .
+            </b>
+            <p>
+              Lots of these questions are free and show their face on the exam.
+              HOWEVER, lots of the answers are not right, so you should go to
+              the discussion section to determine the best answer. However, if
+              you’ve done A, B, and C, you should now be well equipped to use
+              your own discretion to answer these questions.
+            </p>
+          </li>
+          <li>
+            <b>
+              E. Take that last{" "}
+              <a href="https://www.whizlabs.com/google-cloud-certified-associate-cloud-engineer/">
+                whizlabs
+              </a>{" "}
+              practice exam.
+            </b>{" "}
+            You’ve got this!
+          </li>
+          <li>
+            <b>F. Go get ‘em!</b>
+            <br />
+            <p>
+              I think it’s easy, in this exam, to never feel fully prepared.
+              But, especially if you’ve memorized your acronyms for products and
+              are accurately answering the majority of the questions you got
+              wrong before, you’ll do great.
+            </p>
+          </li>
+        </ul>
+        <br />
+        <p>
+          I do want to preface with a warning of:{" "}
+          <b>
+            <i>don’t study too much!</i>
+          </b>
+        </p>
+        <br />
+        <p>
+          There comes a point where, if you keep studying, most of the material
+          you’re studying won’t be on the exam, and, for an exam that shouldn’t
+          take you that long, you’ll end up studying double for it. Know when to
+          call it quits.
+        </p>
+        <br />
+        <p>You’ve got this! Good luck Cloud Gurus!</p>
+        <br /> <br />
+        <p>
+          - Links - <br />
+          <ul>
+            <li>
+              <a href="https://learn.acloud.guru/course/gcp-certified-associate-cloud-engineer/overview">
+                A Cloud Guru
+              </a>
+            </li>
+            <li>
+              <a href="https://www.whizlabs.com/google-cloud-certified-associate-cloud-engineer/">
+                Whizlabs
+              </a>
+            </li>
+            <li>
+              <a href="https://amzn.to/46hhU7P">GC ACE Official Study Guide</a>
+            </li>
+            <li>
+              <a href="https://www.examtopics.com/exams/google/associate-cloud-engineer/view/">
+                ExamTopics
+              </a>
+            </li>
+            <li>
+              <a href="https://cloud.google.com/learn/certification/cloud-engineer">
+                Kryterion / Scheduling the Exam
+              </a>
+            </li>
+            <li>
+              <a href="https://www.youtube.com/watch?v=k0hd-D4k78U">
+                Video Version of this Article
+              </a>
+            </li>
+          </ul>
+          <br />
+        </p>
       </div>
     ),
     authorName: "Alexandra N. Walker",
